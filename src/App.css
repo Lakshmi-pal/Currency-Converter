@@ -1,0 +1,28 @@
+.usd-field{
+  text-align: center;
+}
+.inr-field{
+  text-align: center;
+}
+.rate-field {
+  text-align: center;
+}
+
+.header{
+
+  text-align: center;
+  border: 10px solid #000;
+  margin: 35px 35px 35px 35px;
+  padding: 35px;
+  box-shadow: -5px 10px 10px 8px #888888;
+  background-color: blanchedalmond;
+}
+
+/* .row{
+  text-align: center;
+  border: 10px solid #000;
+  margin: 35px 35px 35px 35px;
+  padding: 35px;
+  box-shadow: -5px 10px 10px 8px #888888;
+  background-color: blanchedalmond;
+} */
